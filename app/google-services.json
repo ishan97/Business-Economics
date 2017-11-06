@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "409337489913",
+    "firebase_url": "https://b-and-e-android-ig.firebaseio.com",
+    "project_id": "b-and-e-android-ig",
+    "storage_bucket": "b-and-e-android-ig.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409337489913:android:e28af8ac1d854c1f",
+        "android_client_info": {
+          "package_name": "com.ishan.gupta.understandingbusinessandeconomics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409337489913-ou32ga3cg403mhpftnomlafn7vek9q19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHBxSSP1YfN5a9aU799lE8J622ZD1zz9U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

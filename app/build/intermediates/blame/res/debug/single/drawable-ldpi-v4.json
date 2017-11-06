@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/ishan/AndroidStudioProjects/UnderstandingBusinessandEconomics/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/forward_white.png",
+        "source": "/Users/ishan/AndroidStudioProjects/UnderstandingBusinessandEconomics/app/build/generated/res/pngs/debug/drawable-ldpi/forward_white.png"
+    },
+    {
+        "merged": "/Users/ishan/Documents/projects/UnderstandingBusinessandEconomics/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/common_ic_googleplayservices.png",
+        "source": "/Users/ishan/Documents/projects/UnderstandingBusinessandEconomics/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/drawable-ldpi-v4/common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "/Users/ishan/AndroidStudioProjects/UnderstandingBusinessandEconomics/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/share1.png",
+        "source": "/Users/ishan/AndroidStudioProjects/UnderstandingBusinessandEconomics/app/build/generated/res/pngs/debug/drawable-ldpi/share1.png"
+    },
+    {
+        "merged": "/Users/ishan/Documents/projects/UnderstandingBusinessandEconomics/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/forward.png",
+        "source": "/Users/ishan/Documents/projects/UnderstandingBusinessandEconomics/app/build/generated/res/pngs/debug/drawable-ldpi/forward.png"
+    },
+    {
+        "merged": "/Users/ishan/Documents/projects/UnderstandingBusinessandEconomics/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/share1.png",
+        "source": "/Users/ishan/Documents/projects/UnderstandingBusinessandEconomics/app/build/generated/res/pngs/debug/drawable-ldpi/share1.png"
+    },
+    {
+        "merged": "/Users/ishan/AndroidStudioProjects/UnderstandingBusinessandEconomics/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/forward.png",
+        "source": "/Users/ishan/AndroidStudioProjects/UnderstandingBusinessandEconomics/app/build/generated/res/pngs/debug/drawable-ldpi/forward.png"
+    },
+    {
+        "merged": "/Users/ishan/AndroidStudioProjects/UnderstandingBusinessandEconomics/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/common_ic_googleplayservices.png",
+        "source": "/Users/ishan/AndroidStudioProjects/UnderstandingBusinessandEconomics/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/drawable-ldpi-v4/common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "/Users/ishan/Documents/projects/UnderstandingBusinessandEconomics/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/forward_white.png",
+        "source": "/Users/ishan/Documents/projects/UnderstandingBusinessandEconomics/app/build/generated/res/pngs/debug/drawable-ldpi/forward_white.png"
+    }
+]
